@@ -14,6 +14,6 @@ Designed a dashboard to analyse sales data for an ecommerce store. Which has var
 7. Quarterly and state wise filtering 
 
 ## Dashboard
-
+<https://github.com/iamshravan/Ecommerce-Sales-Dashboard/blob/main/dashboard.png>
 
 
